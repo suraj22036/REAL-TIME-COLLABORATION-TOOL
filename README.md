@@ -1,16 +1,16 @@
+# REAL-TIME-COLLABORATION-TOOL
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: SURAJ VERMA
 
+*INTERN ID*: CT04DH571
 
+*DOMAIN*: MERN STACK DEVELOPMENT
 
+*DURATION*: 4 WEEKS
 
-
-
-
-
-
-
-
+*MENTOR*: NEELA SANTOSH
 
 **During my internship, I had the opportunity to work on a challenging and rewarding project — the development of a Real-Time Collaboration Tool. The objective of this project was to build a web-based platform that allows multiple users to work together simultaneously on shared documents or interactive whiteboards in real-time. This kind of application mimics the collaborative functionality seen in platforms like Google Docs, where changes made by one user are instantly reflected to all connected users without requiring a page reload or refresh. The key focus of this project was on real-time synchronization, multi-user communication, and efficient data broadcasting, which was achieved through the implementation of WebSocket technology.
 
